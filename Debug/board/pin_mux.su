@@ -1,0 +1,5 @@
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_port.h:651:20:PORT_DisableEFTDetectInterrupts	16	static
+../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:79:6:BOARD_InitPins	56	static

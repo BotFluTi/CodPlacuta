@@ -1,0 +1,11 @@
+../lwip/src/core/timeouts.c:146:1:tcpip_tcp_timer	16	static
+../lwip/src/core/timeouts.c:168:1:tcp_timer_needed	8	static
+../lwip/src/core/timeouts.c:185:1:sys_timeout_abs	32	static
+../lwip/src/core/timeouts.c:234:1:lwip_cyclic_timer	32	static
+../lwip/src/core/timeouts.c:266:6:sys_timeouts_init	16	static
+../lwip/src/core/timeouts.c:278:6:sys_timeouts_deinit	16	static
+../lwip/src/core/timeouts.c:301:1:sys_timeout	32	static
+../lwip/src/core/timeouts.c:328:1:sys_untimeout	24	static
+../lwip/src/core/timeouts.c:363:1:sys_check_timeouts	24	static
+../lwip/src/core/timeouts.c:415:1:sys_restart_timeouts	24	static
+../lwip/src/core/timeouts.c:437:1:sys_timeouts_sleeptime	16	static

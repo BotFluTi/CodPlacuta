@@ -1,0 +1,9 @@
+../lwip/src/core/ipv6/icmp6.c:84:1:icmp6_input	56	static
+../lwip/src/core/ipv6/icmp6.c:226:1:icmp6_dest_unreach	16	static
+../lwip/src/core/ipv6/icmp6.c:242:1:icmp6_packet_too_big	16	static
+../lwip/src/core/ipv6/icmp6.c:258:1:icmp6_time_exceeded	16	static
+../lwip/src/core/ipv6/icmp6.c:279:1:icmp6_time_exceeded_with_addrs	32	static
+../lwip/src/core/ipv6/icmp6.c:298:1:icmp6_param_problem	32	static
+../lwip/src/core/ipv6/icmp6.c:315:1:icmp6_send_response	56	static
+../lwip/src/core/ipv6/icmp6.c:352:1:icmp6_send_response_with_addrs	56	static
+../lwip/src/core/ipv6/icmp6.c:391:1:icmp6_send_response_with_addrs_and_netif	56	static

@@ -1,0 +1,4 @@
+../lwip/src/netif/zepif.c:98:1:zep_lowpan_timer	16	static
+../lwip/src/netif/zepif.c:108:1:zepif_udp_recv	40	static
+../lwip/src/netif/zepif.c:168:1:zepif_linkoutput	32	static
+../lwip/src/netif/zepif.c:222:1:zepif_init	32	static

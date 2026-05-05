@@ -1,0 +1,5 @@
+../lwip/src/core/ipv6/ip6_addr.c:73:1:ip6addr_aton	48	static
+../lwip/src/core/ipv6/ip6_addr.c:219:1:ip6addr_ntoa	16	static
+../lwip/src/core/ipv6/ip6_addr.c:235:1:ip6addr_ntoa_r	64	static
+../lwip/src/core/ipv6/ip6_addr.c:363:6:ip6_addr_net_by_mask	32	static
+../lwip/src/core/ipv6/ip6_addr.c:393:5:ip6_addr_prefix_eq	40	static

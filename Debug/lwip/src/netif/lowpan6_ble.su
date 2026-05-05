@@ -1,0 +1,12 @@
+../lwip/src/netif/lowpan6_ble.c:110:1:ble_addr_to_eui64	24	static
+../lwip/src/netif/lowpan6_ble.c:139:1:eui64_to_ble_addr	16	static
+../lwip/src/netif/lowpan6_ble.c:150:1:rfc7668_set_addr	24	static
+../lwip/src/netif/lowpan6_ble.c:176:1:rfc7668_set_local_addr_eui64	32	static
+../lwip/src/netif/lowpan6_ble.c:187:1:rfc7668_set_local_addr_mac48	32	static
+../lwip/src/netif/lowpan6_ble.c:198:1:rfc7668_set_peer_addr_eui64	32	static
+../lwip/src/netif/lowpan6_ble.c:209:1:rfc7668_set_peer_addr_mac48	32	static
+../lwip/src/netif/lowpan6_ble.c:230:1:rfc7668_compress	56	static
+../lwip/src/netif/lowpan6_ble.c:300:1:rfc7668_set_context	16	static
+../lwip/src/netif/lowpan6_ble.c:328:1:rfc7668_output	24	static
+../lwip/src/netif/lowpan6_ble.c:347:1:rfc7668_input	32	static
+../lwip/src/netif/lowpan6_ble.c:410:1:rfc7668_if_init	16	static

@@ -1,0 +1,6 @@
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_lpadc.h:1128:20:LPADC_DoSoftwareTrigger	16	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_spc.h:1105:20:SPC_EnableActiveModeAnalogModules	16	static
+../source/temperature.c:40:13:ADC_Init	88	static
+../source/temperature.c:74:17:ADC_ReadRaw	24	static
+../source/temperature.c:88:6:temperature_task	64	static

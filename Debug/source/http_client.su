@@ -1,0 +1,10 @@
+../source/http_client.c:62:7:http_client_post	40	static
+../source/http_client.c:121:14:hc_connected	312	static
+../source/http_client.c:176:14:hc_recv	40	static
+../source/http_client.c:240:14:hc_sent	24	static
+../source/http_client.c:249:13:hc_err	24	static
+../source/http_client.c:264:13:hc_timeout	24	static
+../source/http_client.c:279:13:hc_close	16	static
+../source/http_client.c:291:13:hc_finish	32	static
+../source/http_client.c:313:12:hc_parse_status_line	24	static
+../source/http_client.c:352:14:hc_find_header_end	24	static

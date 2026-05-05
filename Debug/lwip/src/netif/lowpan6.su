@@ -1,0 +1,14 @@
+../lwip/src/netif/lowpan6.c:131:1:lowpan6_write_iee802154_header	32	static
+../lwip/src/netif/lowpan6.c:187:1:lowpan6_parse_iee802154_header	40	static
+../lwip/src/netif/lowpan6.c:263:1:lowpan6_calc_crc	32	static
+../lwip/src/netif/lowpan6.c:289:1:free_reass_datagram	16	static
+../lwip/src/netif/lowpan6.c:304:1:dequeue_datagram	16	static
+../lwip/src/netif/lowpan6.c:321:1:lowpan6_tmr	24	static
+../lwip/src/netif/lowpan6.c:344:1:lowpan6_frag	88	static
+../lwip/src/netif/lowpan6.c:501:1:lowpan6_set_context	16	static
+../lwip/src/netif/lowpan6.c:526:1:lowpan6_set_short_addr	16	static
+../lwip/src/netif/lowpan6.c:537:1:lowpan6_hwaddr_to_addr	16	static
+../lwip/src/netif/lowpan6.c:568:1:lowpan6_output	80	static
+../lwip/src/netif/lowpan6.c:648:1:lowpan6_input	112	static
+../lwip/src/netif/lowpan6.c:877:1:lowpan6_if_init	16	static
+../lwip/src/netif/lowpan6.c:899:1:lowpan6_set_pan_id	16	static

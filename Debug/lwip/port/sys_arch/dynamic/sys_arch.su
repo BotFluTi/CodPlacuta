@@ -1,0 +1,12 @@
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/CMSIS/core_cm33.h:3108:26:SysTick_Config	16	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_common_arm.h:944:24:DisableGlobalIRQ	16	static
+/home/freak/Documents/MCUXpresso_25.6.136/workspace/frdmmcxn947_lwip_httpsrv_bm_cm33_core0/drivers/fsl_common_arm.h:970:20:EnableGlobalIRQ	24	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:73:6:sys_assert	16	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:92:10:lwip_rand	4	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:713:6:time_isr	4	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:721:6:time_init	32	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:741:7:sys_now	4	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:765:12:sys_arch_protect	16	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:785:6:sys_arch_unprotect	16	static
+../lwip/port/sys_arch/dynamic/sys_arch.c:790:6:sys_check_core_locking	16	static
