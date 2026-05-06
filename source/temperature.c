@@ -37,13 +37,11 @@
 volatile uint32_t g_tempInt  = 0;
 volatile uint32_t g_tempFrac = 0;
 
+static void ADC_Init(void);
+static uint32_t ADC_ReadRaw(void);
+
 void temperature_init(void)
 {
-    BOARD_InitBootPins();
-    BOARD_InitBootClocks();
-    BOARD_InitBootPeripherals();
-    BOARD_InitDebugConsole();
-    BOARD_InitPins();
     ADC_Init();
     PRINTF("Temperature Sensor (KY-028) Reader\r\n");
 }
