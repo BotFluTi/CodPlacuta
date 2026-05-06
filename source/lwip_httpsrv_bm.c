@@ -55,6 +55,7 @@ static phy_handle_t phyHandle;
 /*******************************************************************************
  * Code
  ******************************************************************************/
+/* Cod Placuta*/
 
 extern volatile uint32_t g_tempInt;
 extern volatile uint32_t g_tempFrac;
@@ -71,7 +72,7 @@ void send_temperature(void)
     snprintf(json, sizeof(json), "{\"temperature\":\"%u.%u\"}", g_tempInt, g_tempFrac);
 
     ip_addr_t demo_server_ip;
-    IP_ADDR4(&demo_server_ip, 10, 14, 120, 93);
+    IP_ADDR4(&demo_server_ip, 192, 168, 56, 1);
 
     http_client_post(&demo_server_ip, 8080,
                      "/api/data",
